@@ -1,3 +1,0 @@
-Ubuntu
-username:harshitha
-password:harshitha
