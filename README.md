@@ -3,7 +3,7 @@
 The following is a checklist of activities that are to be uploaded to the repo:
 
 **JMeter**:
-- [ ] Activity 1(JMX File) - To run a basic load test to demonstarate the basic elements in JMeter - Thread Group, Sampler, Assertions, Listener, Timers
+- [ YES] Activity 1(JMX File) - To run a basic load test to demonstarate the basic elements in JMeter - Thread Group, Sampler, Assertions, Listener, Timers
 - [ ] Activity 2(JMX File) - To do a basic load test on a website using Basic Authentication
 - [ ] Activity 3(JMX File) - To implement basic load test using pre and post processors on the training support Selenium site
 - [ ] Actvitiy 4(JMX File) - Connecting to a database and run a load test
